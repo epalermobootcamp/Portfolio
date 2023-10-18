@@ -1,8 +1,19 @@
 {
-  "name": "portfolio",
-  "version": "1.0.0",
-  "description": "portfolio using react",
-  "main": "index.js",
+  "name": "portfolio---react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emailjs/browser": "^3.6.2",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.4.0",
+    "react-scripts": "5.0.1",
+    "swiper": "^8.2.4",
+    "web-vitals": "^2.1.4"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -26,27 +37,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/epalermobootcamp/Portfolio.git"
-  },
-  "author": "Enrico Palermo",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/epalermobootcamp/Portfolio/issues"
-  },
-  "homepage": "https://github.com/epalermobootcamp/Portfolio#readme",
-  "dependencies": {
-    "@emailjs/browser": "^3.11.0",
-    "@testing-library/jest-dom": "^6.1.4",
-    "@testing-library/react": "^14.0.0",
-    "@testing-library/user-event": "^14.5.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-icons": "^4.11.0",
-    "react-scripts": "^5.0.1",
-    "swiper": "^10.3.1",
-    "web-vitals": "^3.5.0"
   }
 }
