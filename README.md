@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-- [Live Demo](https://EP-portfolio.netlify.app/)
+- [Live Demo](https://earnest-fairy-c7ee29.netlify.app/)
 
 # Getting Started
 
@@ -51,7 +51,7 @@
 - [GitHub](https://github.com/epalermobootcamp)
 - [LinkedIn](https://www.linkedin.com/in/enrico-palermo-12bb8162/)
 
-## 🤝 Contributing
+## Contributing
 
 - Contributions, issues, and feature requests are welcome!
 - Feel free to check the [issues page](https://github.com/epalermobootcamp/Portfolio/issues).
